@@ -1,0 +1,117 @@
+.bgContainer{
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  
+}
+
+.historyButton{
+  background-image:linear-gradient(#FC5D73,#FF993F);
+  width: 107px;
+  height: 32px;
+  color:#FFFFFF ;
+  size: 16px;
+  font-weight: bold;
+  font-family: Comfortaa;
+  text-align: center;
+  border-radius: 9px 9px 9px 9px;
+  border: none;
+}
+
+.lineone{
+  height: 4px;
+  width: 34.33px;
+  background-color: #FD755E;
+  align-items: flex-start;
+  margin-right: 5px;
+  border:none;
+  }
+  .lineone2{
+    height: 4px;
+    width: 34.33px;
+    background-color:#b0a6a6;
+    align-items: flex-start;
+    margin-right: 5px;
+    border:none;
+    }
+    .vline{
+      height: 44px;
+      width: 2px;
+      background-image: linear-gradient(#FC5D73,#FF993F);
+      align-items: flex-start;
+      margin: 0px;
+      
+
+    }
+.linescontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-start;
+  
+  }
+  .vlinescontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-start;
+    margin: 0px;
+}
+
+.barContainer{
+  background-image: linear-gradient(#FC5D73,#FF993F);
+  min-height:293.64px;
+  width: 260px;
+  border-radius:8px;
+  
+  
+  
+}
+.imagecontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-self: flex-end;
+  margin: 20px;
+}
+
+.heading{
+  color: #FFFFFF;
+  font-family: Comfortaa;
+  font-weight: bold;
+  height: 18px;
+  width: 108px;
+  margin: 20px;
+  font-size: 16px;
+}
+.description{
+  color: #FFFFFF;
+  font-family: Comfortaa;
+  font-weight: normal;
+  margin: 20px;
+  font-size: 14px;
+}
+
+.finishbutton{
+  background-color: #FFFFFF;
+  border-radius: 7px 7px 7px 7px;
+  border: none;
+  height: 30px;
+  width: 82px;
+  margin-bottom:10px;
+
+}
+
+.buttoncontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin: 15px;
+  color: #3A3752;
+  font-size: 12px;
+  font-family: Comfortaa;
+  font-weight: bold;
+
+}
+
